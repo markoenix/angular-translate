@@ -99,7 +99,7 @@
     "publish-release": "^1.6.1",
     "pug": "^2.0.4",
     "serve-favicon": "^2.5.0",
-    "tar": "^4.4.13"
+    "tar": "^6.2.1"
   },
   "dependencies": {
     "angular": "^1.8.0"
